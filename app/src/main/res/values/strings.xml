@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator BMI</string>
+    <string name="todo">TODO</string>
+    <string name="todo0">TODO</string>
+    <string name="bt7">bt7</string>
+    <string name="button8">button8</string>
+    <string name="buttonmul">buttonmul</string>
+    <string name="btn4">btn4</string>
+    <string name="btn5">btn5</string>
+    <string name="btn6">btn6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="add">add</string>
+    <string name="_0">0</string>
+    <string name="dot">dot</string>
+    <string name="equal">equal</string>
+    <string name="logo">logo</string>
+    <string name="calculator_app">Calculator App</string>
+    <string name="by_n_asad_developer">By\n Asad Developer</string>
+    <string name="btndivide">btndivide</string>
+    <string name="clse">clse</string>
+    <string name="opn">opn</string>
+    <string name="ac">ac</string>
+
+</resources>
